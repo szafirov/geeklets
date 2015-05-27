@@ -3,7 +3,7 @@ My repository of [geeklets][10].
 
 Makes use of the following commands:
 
-- curl, grep, sed, awk, tr, head, tail, column, date, cal, ps, top, ifconfig, sysctl
+- curl, grep, sed, awk, tr, head, tail, column, date, cal, ps, top, ifconfig, sysctl, paste
 - Python [json.tool][6]
 - [iCalBuddy][1]
 - [fetchmail][2]
